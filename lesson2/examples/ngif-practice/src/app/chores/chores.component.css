@@ -16,3 +16,11 @@ img {
     display: block;
     margin: auto;
 }
+
+p {
+    color: green;
+}
+
+.iceCream {
+    color: green;
+}
